@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459423427746",
+    "project_id": "farmer-buyer-app-d934d",
+    "storage_bucket": "farmer-buyer-app-d934d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459423427746:android:609af5bcb51ad99a44bbfb",
+        "android_client_info": {
+          "package_name": "com.example.farmer_buyer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBYcty2OGmxmUg0yqmXCWNkRdW7drLf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
